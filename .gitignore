@@ -1,0 +1,13 @@
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# files for buile
+/build
+/.gradle
+/gradle
+gradlew
+gradlew.bat
+gradle.properties
